@@ -1,3 +1,7 @@
-/target
+/target/
+
+/mingw64/
+prueba.exe
+setup-env.bat
 
 /mingw64/
